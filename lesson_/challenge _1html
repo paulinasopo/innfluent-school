@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html LANG="español">
+</html>
+<head>
+    <title> TAREA 2 </title>
+    <metacharset="utf-8"/>
+    <meta name="author" content="Paulina sopó"/>
+</head>
+<body>
+<header>
+    <h1> KJASKJADJASDKJ</h1>
+</header>
+<nav>
+    
+    <ol>soy el primer item </ol>
+    <ol> soy el segundo item</ol>
+    <ol> soy el tercer item </ol>
+    <ul> soy un item desordenado</ul>
+    <ul> soy el segundo item desordenado</ul>
+    <ul> soy el tercer item desordenado</ul>
+</nav>
+<section>
+    <h2> soy un subtitulo</h2>
+    <p> Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut Euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip.Euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip.Euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim.</p>
+</section>
+<article> 
+    <p>Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto,Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. </p>
+<p> Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, cons ectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam.</p>
+<p> Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. </p>
+</article>
+<aside> 
+    <ul> YO. </ul>
+    <ul> Kevin. </ul>
+    <ul> Diana. </ul>
+    <ul> Jhones.</ul>
+    <ul> Mucha gente más que no conozco </ul>
+</aside>
+<footer> 
+    <a href="https://www.instagram.com/sopito_inspirador?r"> link a mi ig </a>
+</footer>
+</body>
